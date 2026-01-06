@@ -90,17 +90,6 @@ pip install -r requirements.txt
 | **Part 6** | Optimize threshold based on business costs |
 | **Part 7** | Analyze errors (confusion matrix, false negatives) |
 
----
-
-## 📚 Learning Guide Highlights
-
-The `PROJECT_LEARNING_GUIDE.md` includes:
-
-- ✅ **Step-by-step explanations** of every concept
-- ✅ **Code with line-by-line comments**
-- ✅ **Interview questions and answers**
-- ✅ **Glossary of terms**
-- ✅ **Tips for using with ChatGPT** for further learning
 
 ---
 
@@ -135,33 +124,6 @@ Based on this analysis, the company should:
 | Recall | ~78% | ~87% |
 | F1-Score | ~75% | ~86% |
 | ROC-AUC | ~0.89 | ~0.93 |
-
----
-
-## 📖 For Beginners
-
-If you're new to data science:
-
-1. **Start with the Learning Guide** - Read `PROJECT_LEARNING_GUIDE.md` first
-2. **Run cells one by one** - Don't rush, understand each step
-3. **Ask ChatGPT** - Use the prompts in the guide to get explanations
-4. **Modify and experiment** - Try changing parameters to see what happens
-
----
-
-## 🎤 Interview Prep
-
-This project covers these common interview topics:
-
-- ✅ Binary classification
-- ✅ Data cleaning
-- ✅ Exploratory Data Analysis
-- ✅ Class imbalance (SMOTE)
-- ✅ Model evaluation metrics
-- ✅ Threshold optimization
-- ✅ Error analysis
-
-See the **Interview Questions & Answers** section in `PROJECT_LEARNING_GUIDE.md`!
 
 ---
 
