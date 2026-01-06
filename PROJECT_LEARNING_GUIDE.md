@@ -896,4 +896,18 @@ After completing this project, you should understand:
 
 ---
 
+## 🎤 Interview Prep
+
+This project covers these common interview topics:
+
+- ✅ Binary classification
+- ✅ Data cleaning
+- ✅ Exploratory Data Analysis
+- ✅ Class imbalance (SMOTE)
+- ✅ Model evaluation metrics
+- ✅ Threshold optimization
+- ✅ Error analysis
+
+See the **Interview Questions & Answers** section in `PROJECT_LEARNING_GUIDE.md`!
+
 *Last Updated: Complete Guide with Full Explanations ✅*
